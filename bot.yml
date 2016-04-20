@@ -1,9 +1,9 @@
-name: Roflbot
-description: Spreading rofls and lols
+name: Muddbot
+description: Testing rofls and lols
 avatar: images/avatar.jpg
 background: images/background.jpg
 screenshots:
-  - screenshot: images/messenger_code.png
+  - screenshot: images/188028.jpg
 config:
   - name: NODE_ENV
     global: true
