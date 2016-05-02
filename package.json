@@ -23,7 +23,7 @@
   "scripts": {
     "pretest": "jscs ./lib/",
     "test": "mocha tests/*.js",
-    "start": "node slack_bot.js"
+    "start": "node aiml.js"
   },
   "repository": {
     "type": "git",
