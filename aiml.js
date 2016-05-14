@@ -1,7 +1,7 @@
 'use strict';
 
-//var Botkit = require('botkit')
-var Botkit = require('./lib/Botkit.js');
+var Botkit = require('botkit')
+//var Botkit = require('./lib/Botkit.js');
 //var aiml = require('aimlinterpreter')
 var aiml = require('./lib/AIMLInterpreter.js');)
 
