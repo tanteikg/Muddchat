@@ -521,6 +521,7 @@
 </category>
 
 
-
-    <category><pattern>*</pattern><template>Ok, I'm confused.  Try starting with hi or hello</template></category>
+<category><pattern>HELP</pattern><template>Try typing hi or hello, or type start to play a game</template></category>
+<category><pattern>?</pattern><template><srai>HELP</srai></template></category>
+    <category><pattern>*</pattern><template>Ok, I'm confused.  Try starting with hi or hello, or type start to play a game</template></category>
 </aiml>
