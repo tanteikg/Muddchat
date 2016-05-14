@@ -1,9 +1,9 @@
 'use strict';
 
-var Botkit = require('botkit')
-//var Botkit = require('./lib/Botkit.js');
+//var Botkit = require('botkit')
+var Botkit = require('./lib/Botkit.js')
 //var aiml = require('aimlinterpreter')
-var aiml = require('./lib/AIMLInterpreter.js');)
+var aiml = require('./lib/AIMLInterpreter.js')
 
 var slackToken = process.env.SLACK_TOKEN
 var controller = Botkit.slackbot({ debug: false })
